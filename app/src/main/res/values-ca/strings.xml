@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check">Comprova</string>
+    <string name="congratulations">Enhorabona!</string>
+    <string name="corrects">Correctes</string>
+    <string name="finish">Acaba</string>
+    <string name="incorrects">Incorrectes</string>
+    <string name="next">Següent</string>
+    <string name="previous">Anterior</string>
+    <string name="question">Pregunta</string>
+    <string name="tryagain">Torna a provar!</string>
+</resources>
